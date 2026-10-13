@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Tue, 13 Oct 2026 22:37:24 GMT
+content-type: application/pdf
+content-length: 521159
+vary: Accept-Encoding
+last-modified: Wed, 26 Aug 2026 21:42:43 GMT
+etag: 0x8DF03BAF5B2BFBD
+x-ms-request-id: 231ec8e9-901e-0066-6653-5b5ca3000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+access-control-expose-headers: x-ms-request-id,Server,x-ms-version,Content-Type,ETag,Last-Modified,x-ms-lease-status,x-ms-blob-type,Content-Length,Date,Transfer-Encoding
+access-control-allow-origin: *
+x-azure-ref: 20261013T223723Z-r15c57d5cbbc6gnjhC1STO0h3g0000000chg000000004vct
+cache-control: public, max-age=60
+x-fd-int-roxy-purgeid: 0
+x-cache-info: L2_T2
+x-cache: TCP_REVALIDATED_HIT
+accept-ranges: bytes
+

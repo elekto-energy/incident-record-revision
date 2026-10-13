@@ -1,0 +1,42 @@
+{
+  "body": null,
+  "client": {
+    "hostname": "claude",
+    "note": "Linux VM on the owner machine (remote-devices shell)",
+    "proxy_env": {
+      "HTTPS_PROXY": "unset",
+      "HTTP_PROXY": "unset",
+      "NO_PROXY": "unset",
+      "http_proxy": "unset",
+      "https_proxy": "unset",
+      "no_proxy": "unset"
+    }
+  },
+  "content_encoding_requested": "none (curl without --compressed)",
+  "content_type": "text/html; charset=UTF-8",
+  "final_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+  "http_status": 403,
+  "http_version": "2",
+  "record": "INCIDENT_RECORD_SOURCE_CAPTURE",
+  "redirect_policy": "no redirect follow (curl --max-redirs 0, no -L)",
+  "redirect_url_offered": null,
+  "refused_response": {
+    "bytes": 9831,
+    "reason": "HTTP 403 with header cf-mitigated: challenge (Cloudflare bot challenge page, not the publication)",
+    "sha256": "4aed4da2927af6df68360a46b46193f3688cbb05b13966bc3f4fa559ab44f751",
+    "stored": false
+  },
+  "remote_ip": "104.18.33.45",
+  "requested_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+  "response_headers_bytes": 2070,
+  "response_headers_file": "response_headers.txt",
+  "response_headers_sha256": "a7d15ff6ca431e0fd8af7b522eaecab4187817b5e51d8ffdc1dae28323e120e1",
+  "source_id": "OAI-26AUG",
+  "status": "NOT_CAPTURED",
+  "t_request_utc": "2026-10-13T22:37:22.727953271Z",
+  "tool": {
+    "name": "curl",
+    "python_for_records": "Python 3.10.12",
+    "version": "curl 7.81.0 (x86_64-pc-linux-gnu) libcurl/7.81.0 OpenSSL/3.0.2 zlib/1.2.11 brotli/1.0.9 zstd/1.4.8 libidn2/2.3.2 libpsl/0.21.0 (+libidn2/2.3.2) libssh/0.9.6/openssl/zlib nghttp2/1.43.0 librtmp/2.3 OpenLDAP/2.5.20"
+  }
+}

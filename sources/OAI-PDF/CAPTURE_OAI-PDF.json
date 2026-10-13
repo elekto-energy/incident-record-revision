@@ -1,0 +1,41 @@
+{
+  "body": {
+    "bytes": 521159,
+    "file": "body.pdf",
+    "sha256": "dd635cf6e5f39f0e1f646f08c36549090d77156ed89cbd3d733ed496648cae9c",
+    "stored": "verbatim response body"
+  },
+  "client": {
+    "hostname": "claude",
+    "note": "Linux VM on the owner machine (remote-devices shell)",
+    "proxy_env": {
+      "HTTPS_PROXY": "unset",
+      "HTTP_PROXY": "unset",
+      "NO_PROXY": "unset",
+      "http_proxy": "unset",
+      "https_proxy": "unset",
+      "no_proxy": "unset"
+    }
+  },
+  "content_encoding_requested": "none (curl without --compressed)",
+  "content_type": "application/pdf",
+  "final_url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
+  "http_status": 200,
+  "http_version": "2",
+  "record": "INCIDENT_RECORD_SOURCE_CAPTURE",
+  "redirect_policy": "no redirect follow (curl --max-redirs 0, no -L)",
+  "redirect_url_offered": null,
+  "remote_ip": "150.171.109.198",
+  "requested_url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
+  "response_headers_bytes": 755,
+  "response_headers_file": "response_headers.txt",
+  "response_headers_sha256": "5c294373a0fa8bf9d62be404f7e0cfec2615015ad7a41ec51c8fa7dab0de9dbb",
+  "source_id": "OAI-PDF",
+  "status": "CAPTURED",
+  "t_request_utc": "2026-10-13T22:37:22.827243334Z",
+  "tool": {
+    "name": "curl",
+    "python_for_records": "Python 3.10.12",
+    "version": "curl 7.81.0 (x86_64-pc-linux-gnu) libcurl/7.81.0 OpenSSL/3.0.2 zlib/1.2.11 brotli/1.0.9 zstd/1.4.8 libidn2/2.3.2 libpsl/0.21.0 (+libidn2/2.3.2) libssh/0.9.6/openssl/zlib nghttp2/1.43.0 librtmp/2.3 OpenLDAP/2.5.20"
+  }
+}
